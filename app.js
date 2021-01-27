@@ -1,3 +1,4 @@
+/* --EXPRESS GENERATOR CODE SAMPLE */
 let createError = require('http-errors');
 let express = require('express');
 let path = require('path');
@@ -39,3 +40,5 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+
